@@ -41,6 +41,16 @@ _ReSharper*/
 *.Cache
 ClientBin/
 [Ss]tyle[Cc]op.*
+
+
+
+cd path/to/your/vb/project
+git init
+git add .
+git commit -m "Initial commit: Add Visual Basic project"
+git remote add origin https://github.com/yourusername/your-project-name.git
+git branch -M main
+git push -u origin main
 ~$*
 *.dbmdl
 *.pfx
